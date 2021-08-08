@@ -1,0 +1,16 @@
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\bin\Debug\net5.0\wiredbraincoffesurvey.exe
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\bin\Debug\net5.0\wiredbraincoffesurvey.deps.json
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\bin\Debug\net5.0\wiredbraincoffesurvey.runtimeconfig.json
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\bin\Debug\net5.0\wiredbraincoffesurvey.runtimeconfig.dev.json
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\bin\Debug\net5.0\wiredbraincoffesurvey.dll
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\bin\Debug\net5.0\ref\wiredbraincoffesurvey.dll
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\bin\Debug\net5.0\wiredbraincoffesurvey.pdb
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\obj\Debug\net5.0\wiredbraincoffesurvey.csprojAssemblyReference.cache
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\obj\Debug\net5.0\wiredbraincoffesurvey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\obj\Debug\net5.0\wiredbraincoffesurvey.AssemblyInfoInputs.cache
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\obj\Debug\net5.0\wiredbraincoffesurvey.AssemblyInfo.cs
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\obj\Debug\net5.0\wiredbraincoffesurvey.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\obj\Debug\net5.0\wiredbraincoffesurvey.dll
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\obj\Debug\net5.0\ref\wiredbraincoffesurvey.dll
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\obj\Debug\net5.0\wiredbraincoffesurvey.pdb
+C:\Users\Kelvin\OneDrive - NTT\Documents\GitHub\csharp_building_blocks\wiredbraincoffesurvey\obj\Debug\net5.0\wiredbraincoffesurvey.genruntimeconfig.cache
