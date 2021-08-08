@@ -1,0 +1,16 @@
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\bin\Debug\net5.0\wiredbraincoffeesurvey.exe
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\bin\Debug\net5.0\wiredbraincoffeesurvey.deps.json
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\bin\Debug\net5.0\wiredbraincoffeesurvey.runtimeconfig.json
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\bin\Debug\net5.0\wiredbraincoffeesurvey.runtimeconfig.dev.json
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\bin\Debug\net5.0\wiredbraincoffeesurvey.dll
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\bin\Debug\net5.0\ref\wiredbraincoffeesurvey.dll
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\bin\Debug\net5.0\wiredbraincoffeesurvey.pdb
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\obj\Debug\net5.0\wiredbraincoffeesurvey.csprojAssemblyReference.cache
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\obj\Debug\net5.0\wiredbraincoffeesurvey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\obj\Debug\net5.0\wiredbraincoffeesurvey.AssemblyInfoInputs.cache
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\obj\Debug\net5.0\wiredbraincoffeesurvey.AssemblyInfo.cs
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\obj\Debug\net5.0\wiredbraincoffeesurvey.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\obj\Debug\net5.0\wiredbraincoffeesurvey.dll
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\obj\Debug\net5.0\ref\wiredbraincoffeesurvey.dll
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\obj\Debug\net5.0\wiredbraincoffeesurvey.pdb
+C:\Users\Kelvin\source\repos\wiredbraincoffeesurvey\obj\Debug\net5.0\wiredbraincoffeesurvey.genruntimeconfig.cache
